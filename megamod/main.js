@@ -52,7 +52,7 @@ webpackJsonp([0], {
 				maxVisualRadius: 10.75,
 				maxInteractionRad: 5.5,
 				minActiveTime: 10,
-				moveSpeed: 12,
+				moveSpeed: 30,
 				health: 300,
 				boostDecay: .33,
 				boostMoveSpeed: 2,
