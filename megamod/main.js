@@ -2398,7 +2398,7 @@ webpackJsonp([0], {
 				bandage: {
 					name: "Bandage",
 					type: "heal",
-					useTime: 2.75,
+					useTime: 1,
 					heal: 15,
 					maxHeal: 75,
 					rad: 1,
@@ -2417,7 +2417,7 @@ webpackJsonp([0], {
 				healthkit: {
 					name: "Med Kit",
 					type: "heal",
-					useTime: 6,
+					useTime: 1,
 					heal: 100,
 					maxHeal: 100,
 					rad: 1,
@@ -2436,7 +2436,7 @@ webpackJsonp([0], {
 				soda: {
 					name: "Soda",
 					type: "boost",
-					useTime: 3,
+					useTime: 1,
 					boost: 25,
 					rad: 1,
 					lootImg: {
@@ -2735,7 +2735,7 @@ webpackJsonp([0], {
 				}
 			},
 			scopeZoomRadius: {
-				"1xscope": 32,
+				"1xscope": 86,
 				"2xscope": 42,
 				"4xscope": 58,
 				"8xscope": 86,
