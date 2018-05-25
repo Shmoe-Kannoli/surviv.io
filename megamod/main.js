@@ -792,7 +792,7 @@ webpackJsonp([0], {
 					areaOfEffect: .75,
 					damageTime: .1,
 					cooldownTime: .15,
-					damage: 24,
+					damage: 100,
 					headshotMult: 1,
 					speed: {
 						equip: 1,
