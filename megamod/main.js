@@ -49,8 +49,8 @@ webpackJsonp([0], {
 			},
 			player: {
 				radius: 1,
-				maxVisualRadius: 7.75,
-				maxInteractionRad: 3.5,
+				maxVisualRadius: 10.75,
+				maxInteractionRad: 5.5,
 				minActiveTime: 10,
 				moveSpeed: 12,
 				health: 300,
@@ -403,15 +403,15 @@ webpackJsonp([0], {
 				outfitBase: {
 					name: "Ghillie Suit",
 					type: "skin",
-					subtype: "normal",
+					subtype: "camo",
 					rad: 1,
 					skinImg: {
-						baseTint: 16303476,
+						baseTint: 8630096,
 						baseSprite: "img/player/player-base-01.svg",
 						baseScale: 1,
-						handTint: 16303476,
+						handTint: 8630096,
 						handSprite: "img/player/player-hands-01.svg",
-						backpackTint: 8480055
+						backpackTint: 6697728
 					},
 					lootImg: {
 						sprite: "img/loot/loot-shirt-01.svg",
